@@ -130,7 +130,7 @@ entered as 2-4 means Round Robin with q=4. Also, policy 8-1 means Aging with q=1
 > Check the attached [testcases]([https://github.com/saurabh2226/Scheduling-Algorithm/tree/main/testcases]) for more details.
 
 
-## Contributors
+## BY:
 
-- [Saurabh Kumar](https://github.com/saurabh2226)
+- [Mohd Kaif]([https://github.com/saurabh2226](https://github.com/kaifcode2003))
 
